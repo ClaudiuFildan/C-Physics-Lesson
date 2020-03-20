@@ -1,0 +1,131 @@
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\bin\Debug\incerc7.exe.config
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\bin\Debug\incerc7.exe
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\bin\Debug\incerc7.pdb
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.Form1.resources
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.Form2.resources
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.exe
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.pdb
+C:\Users\User\Desktop\atestat info\Solution1\incerc7\incerc7\obj\Debug\incerc7.Form3.resources
+F:\incerc7\incerc7\bin\Debug\incerc7.exe.config
+F:\incerc7\incerc7\obj\Debug\incerc7.exe
+F:\incerc7\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+F:\incerc7\incerc7\obj\Debug\incerc7.Form1.resources
+F:\incerc7\incerc7\obj\Debug\incerc7.Form2.resources
+F:\incerc7\incerc7\obj\Debug\incerc7.Form3.resources
+F:\incerc7\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+F:\incerc7\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+F:\incerc7\incerc7\bin\Debug\incerc7.exe
+F:\incerc7\incerc7\bin\Debug\incerc7.pdb
+F:\incerc7\incerc7\obj\Debug\incerc7.pdb
+E:\AplicatieTest\incerc7\bin\Debug\incerc7.exe.config
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.exe
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.pdb
+E:\AplicatieTest\incerc7\bin\Debug\incerc7.exe
+E:\AplicatieTest\incerc7\bin\Debug\incerc7.pdb
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.Form1.resources
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.Form2.resources
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.Form3.resources
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+E:\AplicatieTest\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+E:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\atestat pur\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+C:\Users\User\Desktop\atestat pur\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+C:\Users\User\Desktop\atestat pur\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+C:\Users\User\Desktop\d\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+d:\D\Clasa 12D\Fildan Claudiu\13-14aprilie\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+E:\clas\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+E:\Atestat Fildan Claudiu 12D\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+C:\Users\User\Videos\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojResolveAssemblyReference.cache
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+F:\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.Cache
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe.config
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.exe
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\bin\Debug\incerc7.pdb
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csprojAssemblyReference.cache
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form1.resources
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form2.resources
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form3.resources
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Form4.resources
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.Properties.Resources.resources
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.csproj.GenerateResource.cache
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.exe
+C:\Users\filda\Desktop\Fildan ClaudiuAtestat Informatica  Clasa 12D\incerc7\obj\Debug\incerc7.pdb

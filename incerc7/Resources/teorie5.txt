@@ -1,0 +1,10 @@
+5. GRUPAREA  REZISTENTELOR  SI  A  GENERATOARELOR ELECTRICE 
+
+5.1 Rezistenta electrica echivalenta gruparii serie 
+
+	Fie doi rezistori cu rezistentele electrice R1 respectiv R2, legati in serie intre ei. Ansamblul acestora este echivalent cu un singur rezistor Rs a carui rezistenta electrica este data de relatia: Rs=R1+R2.
+
+5.2 Rezistenta electrica echivalenta gruparii paralel
+ 
+	Fie doi rezistori cu rezistentele electrice R1 respectiv R2, legati in paralel intre ei. Ansamblul acestora este echivalent cu un singur rezistor Rp a carui rezistenta electrica este data de relatia: 1/Rp=1/R1+1/R2 .
+	 

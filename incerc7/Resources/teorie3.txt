@@ -1,0 +1,9 @@
+﻿
+3.1 Notiunea de rezistenta electrica
+	Fie un conductor alimentat la tensiunea U. Prin acesta trece un curent electric cu intensitatea I. Prin definitie, rezistenta electrica a rezistorului este data de relatia: R=U/I . Metoda reducerii la unitate ne conduce la urmatoarea exprimare in cuvinte: rezistenta electrica a unui rezistor este o marime fizica scalara numeric egala cu tensiunea care, aplicata rezistorului, are ca efect aparitia unui curent de 1 A. Pentru unitatea de masura: [R]=[U]/[I]=V/A  ( Ohm ). ( 1 Ω ) este rezistenta electrica a acelui conductor care, supus unei tensiuni de 1 V, permite trecerea unui curent stationar de 1 A. 
+
+3.2 Legea lui Ohm pentru o portiune de circuit 
+	Intensitatea curentului care strabate un conductor este direct proportionala cu tensiunea aplicata, factorul de proportionalitate fiind inversul rezistentei electrice a conductorului. Exprimarea matematica este:I=U/R  . 
+
+3.3 Legea lui Ohm pentru intreg circuitul 
+	Fie o sursa cu t. e. m. E si rezistenta interna r, sursa care alimenteaza un circuit (neramificat) format dintr-un rezistor cu rezistenta R. Intensitatea curentului prin circuit este data de legea lui Ohm pentru intreg circuitul: I=E/(R+r) . 

@@ -1,0 +1,16 @@
+
+2.1 TENSIUNEA ELECTROMOTOARE A UNUI  GENERATOR  ELECTRIC 
+	Pentru a transporta o sarcina electrica Q intre doua puncte din spatiu (de exemplu - intre doua puncte ale unui circuit electric), se consuma o energie W. Relatia intre acestea este:  , in care marimea U se numeste tensiune electrica intre cele doua puncte. 
+	
+	Tensiunea electrica intre doua puncte este o marime fizica scalara, numeric egala cu energia necesara transportarii unui Coulomb de electricitate intre cele doua puncte. Pentru unitatea de masura: [u]=[w]/[q]=j/c=v ( 1 Volt ) este tensiunea electrica intre doua puncte ale unui circuit intre care, pentru a transporta o sarcina electrica de 1 Coulomb se consuma o energie de 1 Joule. 
+	
+	Un generator electric ideal este considerat a fi un generator de tensiune E, cu rezistenta interioara neglijabila. 
+	
+	Un generator electric real este considerat a fi echivalent cu un generator ideal de tensiune E, legat in serie cu un rezistor electric avand rezistenta electrica egala cu rezistenta electrica interioara r a sursei. 
+	
+	Tensiunea electromotoare E a unei surse “pompeaza” electricitatea de-a lungul intregului circuit. Deci, t. e. m. a unei surse este o marime fizica scalara, numeric egala cu energia comunicata de sursa unei sarcini de 1 Coulomb, pentru a parcurge INTREG CIRCUITUL. 
+	
+	Tensiunea la bornele sursei ( U ) este o marime fizica scalara, numeric egala cu energia comunicata de sursa unei sarcini de 1 Coulomb, pentru a parcurge circuitul EXTERIOR U(borne)=E-I*r=I*R(exterior).  
+	
+	Caderea de tensiune IN INTERIORUL generatorului este o marime fizica scalara, numeric egala cu energia comunicata de sursa unei sarcini de 1 Coulomb, pentru a parcurge circuitul INTERIOR. u=I*r. 
+	
